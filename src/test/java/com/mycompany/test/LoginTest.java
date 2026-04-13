@@ -21,6 +21,7 @@ public class LoginTest {
     }
 
     //Test Answer
+    //Test of checkUserName method, of class Login.
 
     /**
      * Test of checkUserName method, of class Login.
