@@ -112,6 +112,7 @@ public class LoginTest {
         String result = instance.returnLoginStatus(isLoggedIn, firstName, lastName);
         assertEquals(expResult, result);
         
+        // done with classis
     }
     
 }
