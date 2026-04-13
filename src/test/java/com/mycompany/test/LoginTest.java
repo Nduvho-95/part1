@@ -20,7 +20,7 @@ public class LoginTest {
     public LoginTest() {
     }
 
-    
+    //Test Answer
 
     /**
      * Test of checkUserName method, of class Login.
